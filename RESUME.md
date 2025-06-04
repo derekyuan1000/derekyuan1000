@@ -3,7 +3,7 @@
 [CS50's Introduction to Artificial Intelligence with Python]()<br />
 [Microsoft Word Expert]()<br />
 [Microsoft Excel Expert]()<br />
-[Microsoft Powerpoint Expert]()<br />
+[Microsoft Powerpoint Specialist]()<br />
 [Microsoft Outlook Specialist]()<br />
 [Associate Android Developer certification in Kotlin]()<br />
 [Kotlin Training Certification]()<br />
