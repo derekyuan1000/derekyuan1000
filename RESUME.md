@@ -2,8 +2,8 @@
 [edX: Front End Web Developer Professional Certificate Program HTML]()<br />
 [CS50's Introduction to Artificial Intelligence with Python]()<br />
 [Microsoft Word Expert]()<br />
-[Microsoft Excel Expert]()<br />
-[Microsoft Powerpoint Specialist]()<br />
+[Microsoft Office Specialist: Excel Expert (Office 2019)]()<br />
+[Microsoft Office Specialist: PowerPoint Associate]()<br />
 [Microsoft Outlook Specialist]()<br />
 [Associate Android Developer certification in Kotlin]()<br />
 [Kotlin Training Certification]()<br />
