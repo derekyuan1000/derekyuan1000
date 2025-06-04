@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [my ChessToolkit](https://github.com/derekyuan1000/ChessToolkit)
 
-- 🌱 I’m currently learning **C#, Node.js for Javascript frameworkss**
+- 🌱 I’m currently learning **C#, Node.js for Javascript frameworks**
 
 - 👯 I’m looking to collaborate on [en-croissant](https://github.com/franciscoBSalgueiro/en-croissant)
 
