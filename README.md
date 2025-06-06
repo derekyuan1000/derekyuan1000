@@ -88,7 +88,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/derekyuan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="derekyuan" /></a><a href="https://ko-fi.com/derekyuan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="derekyuan" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/derekyuan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="420" alt="derekyuan" /></a><a href="https://ko-fi.com/derekyuan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="100" width="420" alt="derekyuan" /></a></p><br><br>
 
 
 
