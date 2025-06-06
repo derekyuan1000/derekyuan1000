@@ -82,7 +82,7 @@
 <h2>Featured Certification</h2>
 <ul>
     <li><img src="CERTIFICATION/Red%20Hat%20Certified%20System%20Administrator.jpg" alt="Red Hat Certified System Administrator" style="width: 400px; height: auto;"></li>
-    <li><img src="CERTIFICATION/100%20Days%20of%20Code%20The%20Complete%20Python%20Pro%20Bootcamp.jpg" alt="100 Days of Code: The Complete Python Pro Bootcamp" style="width: 400px; height: auto;"></li>
+    <li><img src="CERTIFICATION/CS50's%20Introduction%20to%20Artificial%20Intelligence%20with%20Python.jpg" alt="Introduction to Artificial Intelligence with Python" style="width: 400px; height: auto;"></li>
 </ul>
 
 
