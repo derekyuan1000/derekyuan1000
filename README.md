@@ -78,9 +78,17 @@
     </a>
 </p>
 
-<h3 align="left">Featured Certification</h3>
-* ![Red Hat Certified System Administrator](CERTIFICATION/Red%20Hat%20Certified%20System%20Administrator.jpg)
-* ![100 Days of Code: The Complete Python Pro Bootcamp](CERTIFICATION/100%20Days%20of%20Code%20The%20Complete%20Python%20Pro%20Bootcamp.jpg)
+<h3>Featured Certification</h3>
+        <ul>
+            <li>
+                <img src="CERTIFICATION/Red%20Hat%20Certified%20System%20Administrator.jpg" 
+                     alt="Red Hat Certified System Administrator">
+            </li>
+            <li>
+                <img src="CERTIFICATION/100%20Days%20of%20Code%20The%20Complete%20Python%20Pro%20Bootcamp.jpg" 
+                     alt="100 Days of Code: The Complete Python Pro Bootcamp">
+            </li>
+        </ul>
 
 
 
