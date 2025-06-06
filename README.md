@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C#, Node.js for Javascript frameworks**
 
-- 👯 I’m looking to collaborate on [en-croissant](https://github.com/franciscoBSalgueiro/en-croissant)
+- 👯 I’m looking to collaborate on [monkeytype](https://github.com/monkeytypegame/monkeytype)
 
 - 🤝 I’m looking for help with **backend development for a chess website**
 
