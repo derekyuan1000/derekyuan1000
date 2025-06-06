@@ -81,14 +81,14 @@
 
 <h2>Featured Certification</h2>
 <ul>
-    <li><img src="CERTIFICATION/Red%20Hat%20Certified%20System%20Administrator.jpg" alt="Red Hat Certified System Administrator" style="width: 200px; height: auto;"></li>
-    <li><img src="CERTIFICATION/100%20Days%20of%20Code%20The%20Complete%20Python%20Pro%20Bootcamp.jpg" alt="100 Days of Code: The Complete Python Pro Bootcamp" style="width: 200px; height: auto;"></li>
+    <li><img src="CERTIFICATION/Red%20Hat%20Certified%20System%20Administrator.jpg" alt="Red Hat Certified System Administrator" style="width: 400px; height: auto;"></li>
+    <li><img src="CERTIFICATION/100%20Days%20of%20Code%20The%20Complete%20Python%20Pro%20Bootcamp.jpg" alt="100 Days of Code: The Complete Python Pro Bootcamp" style="width: 400px; height: auto;"></li>
 </ul>
 
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/derekyuan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="420" alt="derekyuan" /></a><a href="https://ko-fi.com/derekyuan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="100" width="420" alt="derekyuan" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/derekyuan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="derekyuan" /></a><a href="https://ko-fi.com/derekyuan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="derekyuan" /></a></p><br><br>
 
 
 
