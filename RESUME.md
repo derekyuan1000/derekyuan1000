@@ -1,6 +1,6 @@
 # Certifications
 
-- ![100 Days of Code: The Complete Python Pro Bootcamp](CERTIFICATION/100%20Days%20of%20Code%20The%20Complete%20Python%20Pro%20Bootcamp.jpg)
+- [100 Days of Code: The Complete Python Pro Bootcamp](CERTIFICATION/100%20Days%20of%20Code%20The%20Complete%20Python%20Pro%20Bootcamp.jpg)
 - [Associate Android Developer certification in Kotlin](#)
 - [CS50's Introduction to Artificial Intelligence with Python](#)
 - [Complete 2022 Data Science & Machine Learning Bootcamp](#)
