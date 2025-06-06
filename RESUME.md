@@ -7,6 +7,22 @@
 [Microsoft Office Specialist: Associate (Microsoft 365 Apps)]()<br />
 [Associate Android Developer certification in Kotlin]()<br />
 [100 Days of Code: The Complete Python Pro Bootcamp]()<br />
-[Google IT Automation with Python Professional Certificate by Google]()<br />
-[Google Associate Data Practitioner Learning Path]()<br />
-[Google White Hat Cybersecurity]()<br />
+[The Python Developer Essentials Immersive Bootcamp]()<br />
+[Full Stack Web Application Development with Django Framework]()<br />
+[Python: From Zero to Hero - Code Your Way to the Top]()<br />
+[RPG Core Combat Creator: Learn Intermediate Unity C# Coding]()<br />
+[DevOps Engineering - A Complete Guide]()<br />
+[Complete C# Unity Game Developer 2D]()<br />
+[Intermediate Python Immersive Training | Boost your career]()<br />
+[JavaScript & jQuery - Certification Course for Beginners]()<br />
+[Learn C++ Object Oriented Programming the easy way]()<br />
+[Ethical Hacking: Learn The Art of Hacking Using Python3]()<br />
+[Masterclass in C# Programing & Unity 3D Game Development FPS]()<br />
+[DYDX Pairs Trading Bot Build in Python Running in the Cloud]()<br />
+[Complete 2022 Data Science & Machine Learning Bootcamp]()<br />
+[Complete C# Unity Game Developer 3D (Updated To Unity 6)]()<br />
+[]()<br />
+[]()<br />
+[]()<br />
+[]()<br />
+[]()<br />
