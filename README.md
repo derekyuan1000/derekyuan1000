@@ -77,6 +77,16 @@
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
     </a>
 </p>
+
+<h3 align="left">Featured Certification</h3>
+- ![Red Hat Certified System Administrator](CERTIFICATION/Red%20Hat%20Certified%20System%20Administrator.jpg)
+- ![100 Days of Code: The Complete Python Pro Bootcamp](CERTIFICATION/100%20Days%20of%20Code%20The%20Complete%20Python%20Pro%20Bootcamp.jpg)
+
+
+
 <h3 align="left">Support:</h3>
 <p><a href="https://buymeacoffee.com/derekyuan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="derekyuan" /></a><a href="https://ko-fi.com/derekyuan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="derekyuan" /></a></p><br><br>
+
+
+
 
