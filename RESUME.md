@@ -1,26 +1,25 @@
-[100 Days of Code: The Complete Python Pro Bootcamp](CERTIFICATION/100 Days of Code The Complete Python Pro Bootcamp.jpg)<br />
-[Associate Android Developer certification in Kotlin]()<br />
-[CS50's Introduction to Artificial Intelligence with Python]()<br />
-[Complete 2022 Data Science & Machine Learning Bootcamp]()<br />
-[Complete C# Unity Game Developer 2D]()<br />
-[Complete C# Unity Game Developer 3D (Updated To Unity 6)]()<br />
-[DYDX Pairs Trading Bot Build in Python Running in the Cloud]()<br /
-[DevOps Engineering - A Complete Guide]()<br />
-[Ethical Hacking: Learn The Art of Hacking Using Python3]()<br />
-[Full Stack Web Application Development with Django Framework]()<br />
-[Intermediate Python Immersive Training | Boost your career]()<br />
-[JavaScript & jQuery - Certification Course for Beginners]()<br />
-[Learn C++ Object Oriented Programming the easy way]()<br />
-[Masterclass in C# Programing & Unity 3D Game Development FPS]()<br />
-[Microsoft Office Specialist: Associate (Microsoft 365 Apps)]()<br />
-[Microsoft Office Specialist: Excel Expert (Office 2019)]()<br />
-[Microsoft Office Specialist: PowerPoint Associate (Office 2019)]()<br />
-[Microsoft Office Specialist: Word Expert (Office 2019)]()<br />
-[Python: From Zero to Hero - Code Your Way to the Top]()<br />
-[RPG Core Combat Creator: Learn Intermediate Unity C# Coding]()<br />
-[Red Hat Certified System Administrator]()<br />
-[The Python Developer Essentials Immersive Bootcamp]()<br />
-[edX: Front End Web Developer Professional Certificate Program HTML]()<br />
+# Certifications
 
-
-
+- ![100 Days of Code: The Complete Python Pro Bootcamp](CERTIFICATION/100%20Days%20of%20Code%20The%20Complete%20Python%20Pro%20Bootcamp.jpg)
+- [Associate Android Developer certification in Kotlin](#)
+- [CS50's Introduction to Artificial Intelligence with Python](#)
+- [Complete 2022 Data Science & Machine Learning Bootcamp](#)
+- [Complete C# Unity Game Developer 2D](#)
+- [Complete C# Unity Game Developer 3D (Updated To Unity 6)](#)
+- [DYDX Pairs Trading Bot Build in Python Running in the Cloud](#)
+- [DevOps Engineering - A Complete Guide](#)
+- [Ethical Hacking: Learn The Art of Hacking Using Python3](#)
+- [Full Stack Web Application Development with Django Framework](#)
+- [Intermediate Python Immersive Training | Boost Your Career](#)
+- [JavaScript & jQuery - Certification Course for Beginners](#)
+- [Learn C++ Object Oriented Programming the Easy Way](#)
+- [Masterclass in C# Programming & Unity 3D Game Development FPS](#)
+- [Microsoft Office Specialist: Associate (Microsoft 365 Apps)](#)
+- [Microsoft Office Specialist: Excel Expert (Office 2019)](#)
+- [Microsoft Office Specialist: PowerPoint Associate (Office 2019)](#)
+- [Microsoft Office Specialist: Word Expert (Office 2019)](#)
+- [Python: From Zero to Hero - Code Your Way to the Top](#)
+- [RPG Core Combat Creator: Learn Intermediate Unity C# Coding](#)
+- [Red Hat Certified System Administrator](#)
+- [The Python Developer Essentials Immersive Bootcamp](#)
+- [edX: Front End Web Developer Professional Certificate Program HTML](#)
