@@ -14,7 +14,7 @@
 - [Intermediate Python Immersive Training | Boost Your Career](CERTIFICATION/Intermediate%20Python%20Immersive%20Training%20Boost%20your%20career.jpg)
 - [JavaScript & jQuery - Certification Course for Beginners](CERTIFICATION/JavaScript%20%26%20jQuery%20-%20Certification%20Course%20for%20Beginners.jpg)
 - [Learn C++ Object Oriented Programming the Easy Way](CERTIFICATION/Learn%20C++%20Object%20Oriented%20Programming%20the%20easy%20way.jpg)
-- [Masterclass in C# Programming & Unity 3D Game Development FPS](CERTIFICATION/Masterclass%20in%20C#%20Programing%20&%20Unity%203D%20Game%20Development%20FPS.jpg)
+- [Masterclass in C# Programming & Unity 3D Game Development FPS](CERTIFICATION/Masterclass%20in%20C%23%20Programing%20%26%20Unity%203D%20Game%20Development%20FPS.jpg)
 - [Microsoft Office Specialist: Associate (Microsoft 365 Apps)](CERTIFICATION/Microsoft%20Office%20Specialist%20Associate%20(Microsoft%20365%20Apps).jpg)
 - [Microsoft Office Specialist: Excel Expert (Office 2019)](CERTIFICATION/Microsoft%20Office%20Specialist%20Excel%20Expert%20(Office%202019).jpg)
 - [Microsoft Office Specialist: PowerPoint Associate (Office 2019)](CERTIFICATION/Microsoft%20Office%20Specialist%20PowerPoint%20Associate%20(Office%202019).jpg)
