@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derekyuan1000&show_icons=true&locale=en" alt="derekyuan1000" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derekyuan1000" alt="derekyuan1000" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=derekyuan1000)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [my ChessToolkit](https://github.com/derekyuan1000/ChessToolkit)
 
