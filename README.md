@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=derekyuan1000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+- 💻 Check out my [website](https://derekyuan.co.uk/)
+
 - 🔭 I’m currently working on [my ChessToolkit](https://github.com/derekyuan1000/ChessToolkit)
 
 - 🌱 I’m currently learning **C#, Node.js for Javascript frameworks**
