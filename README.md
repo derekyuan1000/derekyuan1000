@@ -4,7 +4,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derekyuan1000&show_icons=true&locale=en&layout=compact" alt="derekyuan1000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GGCoder098&show_icons=true&locale=en" alt="derekyuan1000" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derekyuan1000&show_icons=true&locale=en" alt="derekyuan1000" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=derekyuan1000&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
