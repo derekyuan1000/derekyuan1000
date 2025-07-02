@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
 <h3 align="center">A passionate 15 year old developer from the UK</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=500&duration=3000&pause=200&color=BE85F7&width=435&lines=Hi!+I'm+Derek;I'm+a+passionate+15+year+old+developer+from+the+UK+%F0%9F%9A%80;Welcome...+to+my+github!+:D)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=500&duration=3000&pause=200&color=BE85F7&width=435&lines=Hi!, I'm Derek;I'm a passionate 15 year old developer from the UK+%F0%9F%9A%80;Welcome...+to+my+github!+:D)](https://git.io/typing-svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=derekyuan1000&show_icons=true&locale=en&layout=compact" alt="derekyuan1000" /></p>
 
