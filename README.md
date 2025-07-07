@@ -9,7 +9,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derekyuan1000&show_icons=true&locale=en" alt="derekyuan1000" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=derekyuan1000&theme=onedark&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=derekyuan1000&title=-Reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 💻 Check out my [website](https://derekyuan.co.uk/)
 
