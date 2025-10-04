@@ -12,9 +12,9 @@
 
 - 💻 Check out my [website](https://derekyuan.co.uk/)
 
-- 🔭 I’m currently working on [my ChessToolkit](https://github.com/derekyuan1000/ChessToolkit)
+- 🔭 I’m currently working on [aha v2](https://github.com/youthacks/aha-v2)
 
-- 🌱 I’m currently learning **C#, Node.js for Javascript frameworks**
+- 🌱 I’m currently learning **Node.js for Javascript frameworks**
 
 - 👯 I’m looking to collaborate on [monkeytype](https://github.com/monkeytypegame/monkeytype)
 
