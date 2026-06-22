@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=derekyuan1000" alt="derekyuan1000's GitHub trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=derekyuan1000" alt="derekyuan1000's GitHub trophies" />
 </p>
 
 - 💻 Check out my website
