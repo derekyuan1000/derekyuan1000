@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Derek</h1>
-<h3 align="center">A passionate 15 year old developer from the UK</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=derekyuan1000&show_icons=true&locale=en" alt="derekyuan1000's GitHub stats" />
