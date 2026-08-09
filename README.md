@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&size=50&pause=100&width=800&height=100&lines=Hello!+My+name+is+Derek+Yuan;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E8%A2%81%E9%83%81%E6%89%BF)](https://git.io/typing-svg)
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-sigma-one.vercel.app/?username=derekyuan1000" alt="derekyuan1000" /></a>
   <br/>
   <img src="https://github-stats-extended.vercel.app/api/?username=derekyuan1000&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Derek%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="derekyuan1000" />
