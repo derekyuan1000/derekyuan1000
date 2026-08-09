@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Derek</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Spray+Paint&duration=4999&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Derek+Yuan;+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E6%98%AF%E8%A2%81%E9%83%81%E6%89%BF)](https://git.io/typing-svg)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=derekyuan1000" alt="derekyuan1000" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derekyuan1000&show_icons=true&locale=en" alt="derekyuan1000" /></p>
 
 - 👨‍💻 All of my projects are available at [derekyuan.co.uk](derekyuan.co.uk)
 
@@ -28,5 +29,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/derekyuan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="derekyuan" /></a><a href="https://ko-fi.com/derekyuan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="derekyuan" /></a></p><br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=derekyuan1000&show_icons=true&locale=en" alt="derekyuan1000" /></p>
