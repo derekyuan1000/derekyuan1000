@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [derekyuan.co.uk](https://www.derekyuan.co.uk)
 
-- 📝 I write a weekly blog at [blog.derekyuan.co.uk](https://www.blog.derekyuan.co.uk)
+- 📝 I write a weekly blog at [blog.derekyuan.co.uk](https://blog.derekyuan.co.uk)
 
 - 📝 or [https://medium.com/@derekyuan10000](https://medium.com/@derekyuan10000)
   
