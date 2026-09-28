@@ -5,9 +5,9 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=derekyuan1000&langs_count=4&theme=calm" alt="derekyuan1000" />
 </p>
 
-- 👨‍💻 All of my projects are available at [derekyuan.co.uk](www.derekyuan.co.uk)
+- 👨‍💻 All of my projects are available at [derekyuan.co.uk](https://www.derekyuan.co.uk)
 
-- 📝 I write a weekly blog at [blog.derekyuan.co.uk](blog.derekyuan.co.uk)
+- 📝 I write a weekly blog at [blog.derekyuan.co.uk](https://www.blog.derekyuan.co.uk)
 
 - 📝 or [https://medium.com/@derekyuan10000](https://medium.com/@derekyuan10000)
   
